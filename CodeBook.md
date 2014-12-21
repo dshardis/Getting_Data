@@ -25,4 +25,5 @@ The run_analysis.R script does the following:
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Further background information can be viewed here:
+
 http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/
